@@ -7,9 +7,6 @@ class Student {
     Student() {
         cout << "Constructor called" << endl;
     }
-    ~Student() {
-        cout << "Destructor called" << endl;
-    }
 };
 
 int main(){

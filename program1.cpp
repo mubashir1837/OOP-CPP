@@ -4,13 +4,13 @@ using namespace std;
 class Student{
     public:
     string name;
-    double gpa;
+    float gpa;
     int age;
 
     void display(){
         cout << "Name: " << name << endl;
-        cout << "GPA: " << gpa << endl;
-        cout << "Age: " << age << endl;
+        cout << "Name: " << gpa << endl;
+        cout << "Name: " << age << endl;
     }
 }; 
 
